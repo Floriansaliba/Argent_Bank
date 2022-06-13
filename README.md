@@ -18,8 +18,10 @@ npm run start
 # How to use it ? 
  
 Once on the lobby, you can logg in under 2 users account :
+
+
  
-###Tony Stark
+Tony Stark
 
 First Name: Tony
 
@@ -29,7 +31,9 @@ Email: tony@stark.com
 
 Password: password123
 
-###Steve Rogers
+
+
+Steve Rogers
 
 First Name: Steve,
 
