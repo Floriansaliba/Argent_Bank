@@ -20,13 +20,13 @@ npm run start
 Once on the lobby, you can logg in under 2 users account :
  
 ###Tony Stark
-First Name: Tony
-Last Name: Stark
-Email: tony@stark.com
-Password: password123
+####First Name: Tony
+####Last Name: Stark
+####Email: tony@stark.com
+####Password: password123
 
 ###Steve Rogers
-First Name: Steve,
-Last Name: Rogers,
-Email: steve@rogers.com,
-Password: password456
+####First Name: Steve,
+####Last Name: Rogers,
+####Email: steve@rogers.com,
+####Password: password456
